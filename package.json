@@ -1,0 +1,26 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "React boilerplate",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandovbs/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate"
+  ],
+  "author": "Fernando Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandovbs/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/fernandovbs/react-boilerplate#readme"
+}
