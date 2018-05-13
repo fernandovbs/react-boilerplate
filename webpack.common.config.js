@@ -31,6 +31,6 @@ module.exports = {
         new HtmlWebPackPlugin({
             template: 'index.html'
         }),
-        new CleanWebpackPlugin(['dist'])
-    ]
+        new CleanWebpackPlugin(['dist']),
+    ],
 }
